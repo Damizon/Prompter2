@@ -4,6 +4,11 @@
 This version is a clean, standalone `.exe` release – no installation required.
 
 ---
+## 🔽 Download
+
+👉 [Download Prompter2 Portable (.zip)](https://github.com/Damizon/Prompter2/raw/main/release/Prompter2.zip)
+
+---
 
 ## 🚀 Features
 
